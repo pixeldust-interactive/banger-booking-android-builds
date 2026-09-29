@@ -6,12 +6,12 @@ This repository is deliberately separate from both the Banger website and the An
 
 ## Current build
 
-- Release: `android-v1.0.0-mvp.3`
+- Release: `android-v1.0.0-mvp.4`
 - Package: `com.pixeldustinteractive.bangerbooking`
-- Version: `1.0.0` (`versionCode` 1)
+- Version: `1.0.0` (`versionCode` 2)
 - Android: API 24 minimum; API 36 target
 - Architecture: ARM64
 - Signing: local Android debug certificate; test installation only
-- SHA-256: `A60E957710CE736DB4FCC594A64B295E191DBF7A92DF4E5F054C141BD9EB2A92`
+- SHA-256: `BBD93B6900973E6B89B46C6DBA4CBC092B2327459446F2DB39EA8E522EEF2131`
 
 Do not submit these test APKs to Google Play. Store delivery requires Play release signing and an Android App Bundle.
