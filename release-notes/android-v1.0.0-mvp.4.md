@@ -41,13 +41,14 @@ Fourth standalone ARM64 Android test build, focused on a simpler, more elegant p
 
 - Native Map is disabled until a restricted Android Maps key is approved and supplied.
 - Google Places makes no request in this build; provider activation remains pending explicit cost approval.
-- New production accounts currently remain pending because free registration is disabled.
+- New production accounts currently remain pending, and the protected-contact RPC and Pitch Profile policies require paid access. The approved sign-up-to-Quick-Pitch journey needs a server-side access decision before activation.
 - The Supabase mobile callback still requires production allowlist confirmation.
 - Physical-device font scaling, TalkBack, and multiple email-client handoff still require testing.
 - Production Privacy, Terms, and Support destinations still need approved URLs.
 
 ## Artifact
 
+- [Download the APK from this GitHub repository](https://github.com/pixeldust-interactive/banger-booking-android-builds/raw/refs/heads/main/artifacts/banger-booking-v1.0.0-mvp.4-arm64.apk)
 - File: `banger-booking-v1.0.0-mvp.4-arm64.apk`
 - Size: 46,366,029 bytes
 - SHA-256: `BBD93B6900973E6B89B46C6DBA4CBC092B2327459446F2DB39EA8E522EEF2131`
